@@ -6,8 +6,8 @@ we will have to begin with the python basics.
 
 I have provided some resources here that I found to be high quality for a variety of topics you will need when first starting
 
-Keep in mind some things will be very confusing in the beginning for those not familiar with programming but I assure you as you
-move forwards and learn more things will fall into place.
+Keep in mind some things will be very confusing in the beginning for those not familiar with programming but I assure you that as you
+move forwards and learn, more things will fall into place.
 
 For learning, this class is pretty much just a list of assignments. The goal of this is to have students self-study with the below resources
 to complete these assignments. The assignments are also specifically targeted to force learning the necessary skills to complete the units.
