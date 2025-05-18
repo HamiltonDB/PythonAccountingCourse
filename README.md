@@ -92,6 +92,27 @@ Here is the current list:
 - 9-Filter-Strings-by-Length
 - 10-Contact-Manager
 
-To start these assignments you should be able to click the three dots to the right side of the file in Github and download the file. Open it with JupyterLab
-and you can begin!
+To start these assignments, you can download them by clicking on the green `<> Code` button at the top right, and then click `Download ZIP`
+
+When it finishes downloading on windows you can simply right-click and then click `Extract All...`
+![image](https://github.com/user-attachments/assets/d1eec213-109a-41ba-924f-4c80bf898802)
+
+It will then prompt you with a path, the current path will be where the `ZIP` is currently at, this is OK and you can click `Extract`
+![image](https://github.com/user-attachments/assets/d43d934a-d137-4814-a4b2-2741757c63ac)
+
+There will be the `README.md` inside this folder and the `assignments/` directory
+
+All the assignments are inside the `assignments/` directory and this folder can be opened in JupyterLab through the sidebar as pictured below
+![image](https://github.com/user-attachments/assets/711e8eb5-da9b-4368-aee0-6dc967435ed5)
+![image](https://github.com/user-attachments/assets/42e5a888-3713-4088-9192-31071a8bf8cf)
+
+Finally after navigating down to assignments you should double left-click on the assignment you want to do
+![image](https://github.com/user-attachments/assets/b846514a-c6f6-4024-8e71-5a86ae1a4cb5)
+
+
+You can also download a single assignment or file on github by going to the file and clicking the download button I have noted in the picture below
+![image](https://github.com/user-attachments/assets/7bc5983c-afd3-4e8a-a05c-030d70fb477a)
+
+Then you would just need to navigate to it like I showed before in JupyterLab
+
 
